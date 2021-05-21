@@ -10,3 +10,7 @@
 ^codecov\.yml$
 ^\.github$
 ^pkgdown$
+^DESCRIPTION\.bak$
+^autoci\.yml$
+^autoci_pkgdown\.yml$
+^tic\.R$
